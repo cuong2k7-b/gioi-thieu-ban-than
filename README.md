@@ -1,7 +1,7 @@
 # gioi-thieu-ban-than
 Trang giới thiệu cá nhân - Bài tập Nhập môn CNPM
 # Họ và Tên :Mai Văn Cường 
-![Ảnh đại diện](https://drive.google.com/file/d/11dgkeUwVHydlSf6jE2AA2CAoTCiXhxw9/view?usp=sharing)
+![Ảnh đại diện](![alt text](image.png))
 # Chào mừng đến với trang cá nhân của tôi!
 
 ##  Giới thiệu bản thân
